@@ -99,6 +99,12 @@ I also looked up backend project ideas - databases and API's stuck to mind. User
 
 ### R1D19
 
+Before I go down the rabbit hole of learning XYZ so I can make my ideal project, I'm just going to create something with what I know now. Nevermind it's ugly/basic/not as great as I would like it to be, I can always improve upon it in the future.
+
+I got started with implementing the Spell quiz as a web-based game with flask. Spent an indecent amount of time fiddling with CSS to no avail. For some reason, after I deleted the CSS for the background, it didn't go away and I cannot figure out why.
+
+Started implementing the game proper instead. It's currently just a textbox and button asking for how many questions the user wants to get tested on.
+
 ### R1D20
 
 ### R1D21
