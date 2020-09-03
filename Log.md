@@ -107,6 +107,13 @@ Started implementing the game proper instead. It's currently just a textbox and 
 
 ### R1D20
 
+Found out the browser was getting the css from cache (aha!) that's why it wasn't updating. Thank you, internet! So... one option is to clear the cache each time you change your CSS (no way), or hard refresh the page to force it to get the css each time [see wiki] (https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache#Google_Chrome).
+
+I also worked on the main page for a bit and got it to how I want it to look like. There's a beautiful wallpaper I found by Jim Kay. The text will be revised further.
+![Screenshot of main page](https://github.com/jainnielyn/Progress-log/blob/master/img/day20.PNG?raw=true) 
+
+Accidentally, I uploaded my API key onto github, but there's a handy [tutorial](https://docs.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository) for it using filter-branch. Not sure if I did it correctly, as my .gitignore now has "config.pyconfig.py"
+
 ### R1D21
 
 ### R1D22
