@@ -116,6 +116,10 @@ Accidentally, I uploaded my API key onto github, but there's a handy [tutorial](
 
 ### R1D21
 
+Worked on the main page so the form looks a bit prettier. The input for number of questions works now.
+
+Was able to connect to the API and retrieve data (the spells). Next is to display them, then check if the answers are correct. Not sure how I want it to display eventually, maybe 3-5 questions per page. I need to make it scrollable, but the background stays put. Then how will I display the results...
+
 ### R1D22
 
 ### R1D23
