@@ -128,7 +128,7 @@ Used a dictionary instead of multiple variables. Answer options are now shown pe
 
 Solved the issue about not seeing the first few questions when there are a lot of questions (it only shows from question 3 onwards). Had an idea that it may be related to the css settings on the background (used `center bottom` in `background: url("../img/bg1.jpg") no-repeat center bottom fixed;`) or div (`transform: translate(-50%, -50%);`). Proven correct, as putting a max height on the div shows all of the questions. 
 
-Will be redined as currently the div is at 80% height of the screen, and the questions overflows and goes past it.
+Will be refined as currently the div is at 80% height of the screen, and the questions overflows and goes past it.
 
 ### R1D23
 
