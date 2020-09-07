@@ -120,7 +120,15 @@ Worked on the main page so the form looks a bit prettier. The input for number o
 
 Was able to connect to the API and retrieve data (the spells). Next is to display them, then check if the answers are correct. Not sure how I want it to display eventually, maybe 3-5 questions per page. I need to make it scrollable, but the background stays put. Then how will I display the results...
 
-### R1D22
+### R1D22 (Monday, 7 September)
+
+Realized why people say don't use `git add .` especially when sharing code between people/computers. Was using 2 computers with different OS (Windows and Ubuntu) and the virtualenv got a bit crazy. So from now, will just commit script files.
+
+Used a dictionary instead of multiple variables. Answer options are now shown per question.
+
+Solved the issue about not seeing the first few questions when there are a lot of questions (it only shows from question 3 onwards). Had an idea that it may be related to the css settings on the background (used `center bottom` in `background: url("../img/bg1.jpg") no-repeat center bottom fixed;`) or div (`transform: translate(-50%, -50%);`). Proven correct, as putting a max height on the div shows all of the questions. 
+
+Will be redined as currently the div is at 80% height of the screen, and the questions overflows and goes past it.
 
 ### R1D23
 
