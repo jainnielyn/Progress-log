@@ -128,9 +128,17 @@ Used a dictionary instead of multiple variables. Answer options are now shown pe
 
 Solved the issue about not seeing the first few questions when there are a lot of questions (it only shows from question 3 onwards). Had an idea that it may be related to the css settings on the background (used `center bottom` in `background: url("../img/bg1.jpg") no-repeat center bottom fixed;`) or div (`transform: translate(-50%, -50%);`). Proven correct, as putting a max height on the div shows all of the questions. 
 
-Will be refined as currently the div is at 80% height of the screen, and the questions overflows and goes past it.
+Todo: Will be refined as currently the div is at 80% height of the screen, and the questions overflows and goes past it.
 
-### R1D23
+### R1D23 (Tuesday, 8 September)
+
+Today was a bit of a challenge, because body pain.
+
+In the process of retrieving user answers from radio buttons. It's pretty cool that `request.form['options']` automatically gets the selected radio button if you have a series of radio buttons with the name `options`. 
+
+Right now, it's either the user can only select one radio button in the entire form, or there's several submit buttons that only check for 1 question each. An idea is to have a unique `name` of radio buttons for each question (e.g. `q1-options`, `q2-options`) but that would require some way to check for the prefix, but as the number of questions is a user input, that would be a bit difficult...
+
+There's a tutorial that made the list of questions a global variable, then did `request.form[item-of-variable]` I don't know if this is the 'right' way to go about it - haven't seen it before. 
 
 ### R1D24
 
