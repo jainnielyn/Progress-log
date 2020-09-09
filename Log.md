@@ -142,7 +142,15 @@ There's a tutorial that made the list of questions a global variable, then did `
 
 ### R1D24
 
-### R1D25
+Didn't work on the project today, just did some research on tech careers, asking for people's advice, etc.
+
+Was burdened because I didn't feel like I knew where I was heard, I generally know I'm not a front end person but rather a logic person, but but exactly sure which "career" I fit into best.
+
+After done cursory research, back end developer of devops seem interesting, but I need to dig deeper. The differences, what each does...
+
+A good thing done today is I built a rough schedule of when I do what aka time blocking, and want to be more consistent with listening to podcasts. I find Reddit and discord channels to be filled with helpful people as well.
+
+### R1D25 (Thursday, 10 September)
 
 ### R1D26
 
