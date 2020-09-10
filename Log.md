@@ -152,6 +152,23 @@ A good thing done today is I built a rough schedule of when I do what aka time b
 
 ### R1D25 (Thursday, 10 September)
 
+Ok, learned a lot today! Messed up my git/github and learned.
+
+But first, accomplishments:
+- Fixed the radio buttons. Apparently radio buttons are grouped according to the name, so I did have to have a different name for each question so that one answer can be selected from each.
+- Format radio button. Copied CSS code to make it more contemporary, non-1990's radio button. Adjusted it a bit. See below!
+
+![Screenshot of radio button](https://github.com/jainnielyn/Progress-log/blob/master/img/day25.PNG?raw=true) 
+
+Some useful links about git, github and branching:
+[[Overall]](https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/) [[Branching]](https://stackoverflow.com/questions/11266478/git-add-remote-branch)
+
+Things I learned today:
+- YES, one should `git add .` when creating a branch! Otherwise, it would only be the python script for example, and it wouldn't work! So it's more like, copy paste the master, do some changes to some files (e.g. for a feature), then when it's working well, merge to master. Or create a pull request (e.g. Hey master, get this feature) 
+- To get working directory of a remote repository: `git fetch <remote>` as in `git fetch github`
+- To delete a remote branch, `git branch -d <branch>` doesn't work, but rather: `git push <remote> --delete <branch>` as in `git push github --delete radio-button`
+- When one has a local branch and wants to push it to github, simply `git push -u <remote> <branch>` as in `git push -u github get-answer`. This creates the remote branch automatically, with the local branch files/code. 
+
 ### R1D26
 
 ### R1D27
