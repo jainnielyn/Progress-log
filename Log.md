@@ -158,7 +158,7 @@ But first, accomplishments:
 - Fixed the radio buttons. Apparently radio buttons are grouped according to the name, so I did have to have a different name for each question so that one answer can be selected from each.
 - Format radio button. Copied CSS code to make it more contemporary, non-1990's radio button. Adjusted it a bit. See below!
 
-![Screenshot of radio button](https://github.com/jainnielyn/Progress-log/blob/master/img/day25.PNG?raw=true) 
+![Screenshot of radio button](img/day25.png) 
 
 Some useful links about git, github and branching:
 [[Overall]](https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/) [[Branching]](https://stackoverflow.com/questions/11266478/git-add-remote-branch)
