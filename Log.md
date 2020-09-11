@@ -169,7 +169,15 @@ Things I learned today:
 - To delete a remote branch, `git branch -d <branch>` doesn't work, but rather: `git push <remote> --delete <branch>` as in `git push github --delete radio-button`
 - When one has a local branch and wants to push it to github, simply `git push -u <remote> <branch>` as in `git push -u github get-answer`. This creates the remote branch automatically, with the local branch files/code. 
 
-### R1D26
+### R1D26 (Friday, 11 September)
+
+Another productive day! 
+- Completed functionality: Get answer from user and check to see if it's correct.
+- Completed functionality: A results page, which has a little wand icon. It shows how many were answered correctly and there's a button to restart the game.
+
+Some useful git commands:
+- `git stash` - for when something is in work in progress, and you don't want to commit it yet, but want to switch to a different branch. It's like a temporary save.
+- `git stash apply` - restores what was stashed.
 
 ### R1D27
 
@@ -178,3 +186,11 @@ Things I learned today:
 ### R1D29
 
 ### R1D30
+
+### R1D31
+
+### R1D32
+
+### R1D33
+
+### R1D34
