@@ -181,6 +181,20 @@ Some useful git commands:
 
 ### R1D27
 
+Tested functionality, fixed some bugs.
+
+Apparently, HTML5 brings some new input types that make making forms easier! hurrah! For example:
+- `input type="number"` limits input to numbers including negatives, other keys are 'disabled'. Coupled with the `min` and `max` I was able to limit input to numbers 1-150.
+- Adding `required` to the radio buttons requires the user to select an answer for each question, or else it won't be submitted.
+- A small issue - when user clicks "play again," the new questions are added to the old questions. It was a simple reset of the question list.
+
+Some useful git commands:
+- `git fetch <remote>` and `git branch -a` to retrieve working directory (?) from the remote repository, and display all branches. Noticed that this displays deleted branche in the remote though, so better to use `git fetch -p <remote>` to see the pruned/current version
+- `git checkout -b <new-branch> <branch-to-be-copied>` as in `git checkout -b testing master` to create a branch called `testing` with files copied from master, and switching to the new branch.
+
+TODO:
+Next up is the formatting stage, not my best skill, but I came across W3.CSS framework from W3Schools. They claim it's a smaller, easier version of bootstrap, so I may try that. 
+
 ### R1D28
 
 ### R1D29
