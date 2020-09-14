@@ -200,11 +200,15 @@ Some useful git commands:
 TODO:
 Next up is the formatting stage, not my best skill, but I came across W3.CSS framework from W3Schools. They claim it's a smaller, easier version of bootstrap, so I may try that. 
 
-### R1D28
+### R1D28 and 29 
 
-### R1D29
+Actually, instead of learning W3.CSS, I may as well learn some bootstrap as it's more widely used.
+- Bootstrap basics (elements, etc.): [Youtube](https://www.youtube.com/watch?v=5GcQtLDGXy8&ab_channel=TraversyMedia)
+- Bootstrap tutorial (create a bootstrap website): [Youtube](https://www.youtube.com/watch?v=9cKsq14Kfsw&ab_channel=DrewRyan)
 
-### R1D30
+Further, cloud computing is a big thing nowadays, and I have to learn some of that too. Salesforce is the leading CRM (customer relationship management) system, which I've seen on some job descriptions, but Amazon web services (AWS) is #1, followed by Microsoft Azure then Google Cloud. A further goal down the line is to be familiar with AWS, and to show proof that I know how to use it - perhaps even get certified.
+
+### R1D30 (Tuesday, 14 September)
 
 ### R1D31
 
