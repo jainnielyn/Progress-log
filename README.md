@@ -214,6 +214,10 @@ Continued with bootstrap basics tutorial and finished. Very, very helpful. There
 
 Will find time this afternoon to update the quiz project, and be done with it. 
 
+Took a bit longer than expected - but bootstrap makes prettifying things easy! It's encouraging as it doesn't take much, and correcting something is pretty easy. I changed the code for buttons, and put in some little surprises.
+
+Will wrap up tomorrow, and deploy :)
+
 ### R1D31
 
 ### R1D32
