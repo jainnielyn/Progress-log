@@ -210,6 +210,10 @@ Further, cloud computing is a big thing nowadays, and I have to learn some of th
 
 ### R1D30 (Tuesday, 14 September)
 
+Continued with bootstrap basics tutorial and finished. Very, very helpful. There's a comment that distinguishes the updates for bootstrap 4, added those as a comment in my notes. 
+
+Will find time this afternoon to update the quiz project, and be done with it. 
+
 ### R1D31
 
 ### R1D32
