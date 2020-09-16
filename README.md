@@ -220,6 +220,10 @@ Will wrap up tomorrow, and deploy :)
 
 ### R1D31
 
+Added a simple navigational bar.
+
+Decided to add a 'report issue' page. [This tutorial](https://code.tutsplus.com/tutorials/intro-to-flask-adding-a-contact-page--net-28982) helped. Tried out without the security guidelines, and got it to work. Need to go back and fix before deploy.
+
 ### R1D32
 
 ### R1D33
