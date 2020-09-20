@@ -78,7 +78,7 @@ Let me try to build it in Flask first. I've only used Flask once ever, so this w
 
 ### R1D15 (Saturday, 29 August)
 
-Following along with FreeCodeCamp's [Flask Tutorial on Youtube](https://www.youtube.com/watch?v=Z1RJmh_OqeA).
+Following along with FreeCodeCamp's [Flask Tutorial on Youtube](https://www.youtube.com/watch?v=Z1RJmh_OqeA). It walks you through creating Task Master, a todo list web app, with Flask.
 
 Decided to install Ubuntu on my computer for ease of development (and focus!). Spent time on backing up, installing, and setting up the system and software. 
 
@@ -224,7 +224,13 @@ Added a simple navigational bar.
 
 Decided to add a 'report issue' page. [This tutorial](https://code.tutsplus.com/tutorials/intro-to-flask-adding-a-contact-page--net-28982) helped. Tried out without the security guidelines, and got it to work. Need to go back and fix before deploy.
 
-### R1D32
+### R1D32 (Sunday, 20 September)
+
+Attended a Hacker Hours meetup. Got help regarding the security thing, atleast CSRF anyway. So I had to create a Form class, to use the csrf token, and `validate_on_submit` It works!
+
+Works well on local machine, but encountering `Internal server error` once deployed to heroku. There are forums where people discuss issues with gmail SMTP and heroku, someone said may be best to get secrets from environment variables, while one post said redo the web app and use OAuth instead (no way!)...
+
+Will fiddle more tomorrow, or may decide to leave it out. 
 
 ### R1D33
 
